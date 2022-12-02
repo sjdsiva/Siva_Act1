@@ -1,0 +1,47 @@
+[
+    {
+        "name" : {
+            "firstname" : "Jazer Zenas",
+            "lastname" : "Demdam"
+            },
+        "age" : 21,
+        "address" : {
+            "street": "Blk 4 Lot 30, Parc Regency Residences, Pavia",
+		    "city": "Iloilo"
+            },
+        "contact-number" : "09455105944",
+        "likes" : "Poems",
+        "dislikes" : "Animal Cruelty",
+        "feeling" : "In love"
+    },
+    {
+        "name" : {
+            "firstname" : "John Michael Adrian",
+            "lastname" : "Bernabe"
+            },
+        "age" : 21,
+        "address" : {
+            "street": "Andagao",
+		    "city": "Kalibo"
+            },
+        "contact-number" : "09566875075",
+        "likes" : "Playing video games",
+        "dislikes" : "Doing chores",
+        "feeling" : "Galit sa nag code netong JSON"
+    },
+    {
+        "name" : {
+            "firstname" : "Christopher Rey",
+            "lastname" : "Benedicto"
+            },
+        "age" : 21,
+        "address" : {
+            "street": "Mandurriao, De Leon St(sa left ka refilling water station)",
+		    "city": "Iloilo"
+            },
+        "contact-number" : "090929342132",
+        "likes" : "Taas na score",
+        "dislikes" : "Nubo na score",
+        "feeling" : "Good like I should"
+    }
+]
